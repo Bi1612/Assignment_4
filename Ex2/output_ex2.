@@ -1,0 +1,11 @@
+--- CHEN CAC PHAN TU VAO CAY ---
+Thu tu chen: 3, 1, 0, 2, 8, 6, 5, 9
+
+--- DUYET CAY THEO PRE-ORDER TRAVERSAL ---
+3 1 0 2 8 6 5 9 
+
+--- DUYET CAY THEO IN-ORDER TRAVERSAL (Sorted) ---
+0 1 2 3 5 6 8 9 
+
+--- XOA TOAN BO CAY (POST-ORDER) ---
+Tong so node da giai phong: 8
