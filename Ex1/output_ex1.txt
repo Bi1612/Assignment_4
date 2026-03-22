@@ -1,0 +1,16 @@
+=== KẾT QUẢ CHẠY THỬ NGHIỆM (SAMPLE OUTPUT) - EXERCISE 1 ===
+
+--- TEST ADD BACK ---
+Danh sach: 10 -> 20 -> 30 -> 40 -> NULL
+
+--- TEST FIND ---
+Tim thay phan tu 30 tai dia chi 0x55e4cf4c56f0
+
+--- TEST DELETE NODE (Xoa o giua) ---
+Danh sach: 10 -> 20 -> 40 -> NULL
+
+--- TEST DELETE NODE (Xoa Head) ---
+Danh sach: 20 -> 40 -> NULL
+
+--- TEST FREE LIST ---
+Da giai phong toan bo danh sach.
